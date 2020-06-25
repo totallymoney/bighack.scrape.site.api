@@ -4,12 +4,14 @@
   "description": "Scrapes Lincolnshire council website",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vercel"
   },
   "author": "akrohn@totallymoney.com",
   "license": "ISC",
   "dependencies": {
     "chrome-aws-lambda": "^3.1.1",
-    "puppeteer": "^4.0.1"
+    "puppeteer": "^4.0.1",
+    "vercel": "^19.1.0"
   }
 }
