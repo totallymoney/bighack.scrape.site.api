@@ -1,7 +1,7 @@
 {
-  "name": "bighack.scrape.lincs.api",
+  "name": "bighack.scrape.site.api",
   "version": "1.0.0",
-  "description": "Scrapes Lincolnshire council website",
+  "description": "Scrapes council website",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
